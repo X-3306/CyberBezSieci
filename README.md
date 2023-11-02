@@ -32,7 +32,7 @@ Ten skrypt jest przykładem, jak można połączyć analizę sieciową, analizę
 - zmień plik "example.pcap" na swój własny, oraz dodaj od niego ścieżkę jeżeli jest w innej lokalizacji niż skrypt.
 
 # Start:
-`python3 Sieć.py`
+`python3 Siec.py`
 
 
 
