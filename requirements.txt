@@ -1,0 +1,6 @@
+pyshark
+requests
+beautifulsoup4
+collections-extended
+pyod
+numpy
