@@ -25,8 +25,14 @@ Ten skrypt jest przykładem, jak można połączyć analizę sieciową, analizę
 - Gdy problem, który ma być analizowany, zostanie odtworzony, kliknij Stop.
 - Zapisz ślad pakietów w formacie .pcap
 
+# konfiguracja kodu:
+- będziesz potrzebował proxy (SOCKS5), możesz to zrobić między innymi przez zainstalowanie tor i proxychains.
+- zmień w "url" na adres strony .onion na którą chcesz
+- w "keywords" możesz dodać słowa kluczowe jakie chcesz.
+- zmień plik "example.pcap" na swój własny, oraz dodaj od niego ścieżkę jeżeli jest w innej lokalizacji niż skrypt.
+
 # Start:
-`python3 sieć.py`
+`python3 Sieć.py`
 
 
 
