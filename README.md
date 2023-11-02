@@ -25,6 +25,8 @@ Ten skrypt jest przykładem, jak można połączyć analizę sieciową, analizę
 - Gdy problem, który ma być analizowany, zostanie odtworzony, kliknij Stop.
 - Zapisz ślad pakietów w formacie .pcap
 
+# Start:
+`python3 sieć.py`
 
 
 
