@@ -44,7 +44,7 @@ def analyze_packets(pcap_file):
 def analyze_deep_web():
     # Używa sesji Tor do połączenia z głębokim internetem
     session = requests.session()
-	    session.proxies = {'http': 'socks5h://localhost:9050', 'https': 'socks5h://localhost:9050'} #bedziesz potrzebowal tutaj proxy
+    session.proxies = {'http': 'socks5h://localhost:9050', 'https': 'socks5h://localhost:9050'} #bedziesz potrzebowal tutaj proxy
 
     # Otwiera stronę .onion do analizy
     url = 'example.onion' #zmien na adres onion strony jakiej chcesz
