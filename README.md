@@ -1,5 +1,5 @@
 # CyberBezSieci
-Ten skrypt Pythona analizuje pakiety sieciowe, przegląda strony .onion i wykrywa anomalie w danych, łącząc analizę sieciową, głębokiego internetu i wykrywanie anomalii.
+Ten skrypt Pythona analizuje pakiety sieciowe, przegląda strony .onion i wykrywa anomalie w danych.
 
 # Działanie:
 Analiza Pakietów: Skrypt analizuje pakiety sieciowe z pliku pcap, zliczając adresy IP, protokoły i sumując długości pakietów.
